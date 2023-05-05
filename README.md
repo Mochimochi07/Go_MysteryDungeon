@@ -8,5 +8,6 @@ i could have used other memes for questions.
 
 
 # Update
-Theres not much update with this but I still havee thinngs to do. Will add more in the future or I might use this in apis.
+Theres not much update with this and I still have things to do. 
+Will add more in the future or I might use this in apis so that people might enjoy pokemon.
 
